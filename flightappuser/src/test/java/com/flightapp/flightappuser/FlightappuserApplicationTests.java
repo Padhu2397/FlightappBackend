@@ -1,0 +1,13 @@
+//package com.flightapp.flightappuser;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class FlightappuserApplicationTests {
+//
+//	@Test
+//	void contextLoads() {
+//	}
+//
+//}
